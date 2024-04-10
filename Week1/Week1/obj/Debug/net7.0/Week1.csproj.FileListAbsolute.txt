@@ -1,0 +1,15 @@
+d:\users\fmi\Desktop\Dimitar OOP2\C-OOP\Week1\Week1\bin\Debug\net7.0\Week1.exe
+d:\users\fmi\Desktop\Dimitar OOP2\C-OOP\Week1\Week1\bin\Debug\net7.0\Week1.deps.json
+d:\users\fmi\Desktop\Dimitar OOP2\C-OOP\Week1\Week1\bin\Debug\net7.0\Week1.runtimeconfig.json
+d:\users\fmi\Desktop\Dimitar OOP2\C-OOP\Week1\Week1\bin\Debug\net7.0\Week1.dll
+d:\users\fmi\Desktop\Dimitar OOP2\C-OOP\Week1\Week1\bin\Debug\net7.0\Week1.pdb
+d:\users\fmi\Desktop\Dimitar OOP2\C-OOP\Week1\Week1\obj\Debug\net7.0\Week1.csproj.AssemblyReference.cache
+d:\users\fmi\Desktop\Dimitar OOP2\C-OOP\Week1\Week1\obj\Debug\net7.0\Week1.GeneratedMSBuildEditorConfig.editorconfig
+d:\users\fmi\Desktop\Dimitar OOP2\C-OOP\Week1\Week1\obj\Debug\net7.0\Week1.AssemblyInfoInputs.cache
+d:\users\fmi\Desktop\Dimitar OOP2\C-OOP\Week1\Week1\obj\Debug\net7.0\Week1.AssemblyInfo.cs
+d:\users\fmi\Desktop\Dimitar OOP2\C-OOP\Week1\Week1\obj\Debug\net7.0\Week1.csproj.CoreCompileInputs.cache
+d:\users\fmi\Desktop\Dimitar OOP2\C-OOP\Week1\Week1\obj\Debug\net7.0\Week1.dll
+d:\users\fmi\Desktop\Dimitar OOP2\C-OOP\Week1\Week1\obj\Debug\net7.0\refint\Week1.dll
+d:\users\fmi\Desktop\Dimitar OOP2\C-OOP\Week1\Week1\obj\Debug\net7.0\Week1.pdb
+d:\users\fmi\Desktop\Dimitar OOP2\C-OOP\Week1\Week1\obj\Debug\net7.0\Week1.genruntimeconfig.cache
+d:\users\fmi\Desktop\Dimitar OOP2\C-OOP\Week1\Week1\obj\Debug\net7.0\ref\Week1.dll
