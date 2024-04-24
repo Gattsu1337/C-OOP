@@ -1,0 +1,5 @@
+D:\users\fmi\Documents\1013\week3\week3\obj\Debug\net7.0\week3.csproj.AssemblyReference.cache
+D:\users\fmi\Documents\1013\week3\week3\obj\Debug\net7.0\week3.GeneratedMSBuildEditorConfig.editorconfig
+D:\users\fmi\Documents\1013\week3\week3\obj\Debug\net7.0\week3.AssemblyInfoInputs.cache
+D:\users\fmi\Documents\1013\week3\week3\obj\Debug\net7.0\week3.AssemblyInfo.cs
+D:\users\fmi\Documents\1013\week3\week3\obj\Debug\net7.0\week3.csproj.CoreCompileInputs.cache
