@@ -1,0 +1,15 @@
+d:\users\fmi\Desktop\DimitarVelikov\Lecture2\bin\Debug\net7.0\Lecture2.exe
+d:\users\fmi\Desktop\DimitarVelikov\Lecture2\bin\Debug\net7.0\Lecture2.deps.json
+d:\users\fmi\Desktop\DimitarVelikov\Lecture2\bin\Debug\net7.0\Lecture2.runtimeconfig.json
+d:\users\fmi\Desktop\DimitarVelikov\Lecture2\bin\Debug\net7.0\Lecture2.dll
+d:\users\fmi\Desktop\DimitarVelikov\Lecture2\bin\Debug\net7.0\Lecture2.pdb
+d:\users\fmi\Desktop\DimitarVelikov\Lecture2\obj\Debug\net7.0\Lecture2.csproj.AssemblyReference.cache
+d:\users\fmi\Desktop\DimitarVelikov\Lecture2\obj\Debug\net7.0\Lecture2.GeneratedMSBuildEditorConfig.editorconfig
+d:\users\fmi\Desktop\DimitarVelikov\Lecture2\obj\Debug\net7.0\Lecture2.AssemblyInfoInputs.cache
+d:\users\fmi\Desktop\DimitarVelikov\Lecture2\obj\Debug\net7.0\Lecture2.AssemblyInfo.cs
+d:\users\fmi\Desktop\DimitarVelikov\Lecture2\obj\Debug\net7.0\Lecture2.csproj.CoreCompileInputs.cache
+d:\users\fmi\Desktop\DimitarVelikov\Lecture2\obj\Debug\net7.0\Lecture2.dll
+d:\users\fmi\Desktop\DimitarVelikov\Lecture2\obj\Debug\net7.0\refint\Lecture2.dll
+d:\users\fmi\Desktop\DimitarVelikov\Lecture2\obj\Debug\net7.0\Lecture2.pdb
+d:\users\fmi\Desktop\DimitarVelikov\Lecture2\obj\Debug\net7.0\Lecture2.genruntimeconfig.cache
+d:\users\fmi\Desktop\DimitarVelikov\Lecture2\obj\Debug\net7.0\ref\Lecture2.dll
