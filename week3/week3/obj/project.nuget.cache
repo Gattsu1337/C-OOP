@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "NjJTg2li8Awa4DOtFZD0jQ1e6yi6FWsBzAY4Ji5j8AoKaDc/q+XiLYFOoHTuyconzuPL7E+RiXfmeSuJ0ISsAQ==",
+  "dgSpecHash": "iwsIIBtDkkc/HIIauktSbLa/cc9fSX1UEYluIbtvUOWTCPZvECYgyleQ+t4/lh2E9ejTGj1R/PEoCZuc7Kc9lg==",
   "success": true,
-  "projectFilePath": "d:\\users\\fmi\\Desktop\\Dimitar OOP2\\C-OOP\\week3\\week3\\week3.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\train\\source\\repos\\Gattsu1337\\C-OOP\\week3\\week3\\week3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\train\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\train\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\train\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\train\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
   "logs": []
 }

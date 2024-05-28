@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZqbAwHyyEdsctgSx+pMkc/9jsi3a4kXgrlZLiDyAN3Ei7DSRCCXNmfAmi+2djoE8fZqmxJCJQalqAKRvqpqugA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\train\\source\\repos\\Gattsu1337\\C-OOP\\AreanGame\\ConsoleArenaGame\\ConsoleArenaGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\train\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\train\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\train\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\train\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

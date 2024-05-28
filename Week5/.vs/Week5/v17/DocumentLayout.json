@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\train\\source\\repos\\Gattsu1337\\C-OOP\\Week5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EACD4FB-1A05-48A1-A4DE-47B423DB6115}|Week5\\Week5.csproj|C:\\Users\\train\\source\\repos\\Gattsu1337\\C-OOP\\Week5\\Week5\\Exercise 1\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EACD4FB-1A05-48A1-A4DE-47B423DB6115}|Week5\\Week5.csproj|solutionrelative:Week5\\Exercise 1\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EACD4FB-1A05-48A1-A4DE-47B423DB6115}|Week5\\Week5.csproj|c:\\users\\train\\source\\repos\\gattsu1337\\c-oop\\week5\\week5\\exercise 2\\specialty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EACD4FB-1A05-48A1-A4DE-47B423DB6115}|Week5\\Week5.csproj|solutionrelative:week5\\exercise 2\\specialty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EACD4FB-1A05-48A1-A4DE-47B423DB6115}|Week5\\Week5.csproj|C:\\Users\\train\\source\\repos\\Gattsu1337\\C-OOP\\Week5\\Week5\\Exercise 1\\Subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EACD4FB-1A05-48A1-A4DE-47B423DB6115}|Week5\\Week5.csproj|solutionrelative:Week5\\Exercise 1\\Subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EACD4FB-1A05-48A1-A4DE-47B423DB6115}|Week5\\Week5.csproj|C:\\Users\\train\\source\\repos\\Gattsu1337\\C-OOP\\Week5\\Week5\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EACD4FB-1A05-48A1-A4DE-47B423DB6115}|Week5\\Week5.csproj|solutionrelative:Week5\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Specialty.cs",
+              "DocumentMoniker": "C:\\Users\\train\\source\\repos\\Gattsu1337\\C-OOP\\Week5\\Week5\\Exercise 2\\Specialty.cs",
+              "RelativeDocumentMoniker": "Week5\\Exercise 2\\Specialty.cs",
+              "ToolTip": "C:\\Users\\train\\source\\repos\\Gattsu1337\\C-OOP\\Week5\\Week5\\Exercise 2\\Specialty.cs",
+              "RelativeToolTip": "Week5\\Exercise 2\\Specialty.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwFQAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T09:29:47.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\train\\source\\repos\\Gattsu1337\\C-OOP\\Week5\\Week5\\Exercise 1\\Subject.cs",
+              "RelativeDocumentMoniker": "Week5\\Exercise 1\\Subject.cs",
+              "ToolTip": "C:\\Users\\train\\source\\repos\\Gattsu1337\\C-OOP\\Week5\\Week5\\Exercise 1\\Subject.cs",
+              "RelativeToolTip": "Week5\\Exercise 1\\Subject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T09:29:47.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\train\\source\\repos\\Gattsu1337\\C-OOP\\Week5\\Week5\\Exercise 1\\Student.cs",
+              "RelativeDocumentMoniker": "Week5\\Exercise 1\\Student.cs",
+              "ToolTip": "C:\\Users\\train\\source\\repos\\Gattsu1337\\C-OOP\\Week5\\Week5\\Exercise 1\\Student.cs",
+              "RelativeToolTip": "Week5\\Exercise 1\\Student.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T09:29:47.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\train\\source\\repos\\Gattsu1337\\C-OOP\\Week5\\Week5\\Program.cs",
+              "RelativeDocumentMoniker": "Week5\\Program.cs",
+              "ToolTip": "C:\\Users\\train\\source\\repos\\Gattsu1337\\C-OOP\\Week5\\Week5\\Program.cs",
+              "RelativeToolTip": "Week5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T09:29:47.084Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
